@@ -14,3 +14,5 @@ cuarto commit  C4
 quinto commit en la nueva brach pruebas 1 C5
 
 sexto commit en la nueva brach pruebas 1 C6
+
+septimo commit en la nueva branch pruebas2 C7
