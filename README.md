@@ -11,4 +11,6 @@ tercer commit despues del squash de C1 y C2 en la master C3
 
 cuarto commit  C4
 
-quinto commit en la nueva brach pruebas 1 C4
+quinto commit en la nueva brach pruebas 1 C5
+
+sexto commit en la nueva brach pruebas 1 C6
