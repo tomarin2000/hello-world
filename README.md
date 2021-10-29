@@ -24,8 +24,6 @@ octavo commit en pruebas 1 /  C8-P1
 
 noveno commit en pruebas 1 desde VSCode / C9-P1
 
-noveno commit en pruebas 2 / C9-P2
+cambio despues del rename de pruebas1 a Desarrollo-pruebas1
 
-decimo commit en pruebas2 / C10-P2
-
-onceavo commit en pruebas2 / C11-P2
+cambio despues de borrar origin/pruebas1 (en githud desde girkraken)
