@@ -22,6 +22,8 @@ septimo commit en pruebas 1 - C7-P1
 octavo commit en main C8
 octavo commit en pruebas 1 /  C8-P1
 
+noveno commit en pruebas 1 desde VSCode / C9-P1
+
 noveno commit en pruebas 2 / C9-P2
 
 decimo commit en pruebas2 / C10-P2
