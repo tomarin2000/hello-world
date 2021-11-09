@@ -29,3 +29,5 @@ cambio despues del rename de pruebas1 a Desarrollo-pruebas1
 cambio despues de borrar origin/pruebas1 (en githud desde girkraken)
 
 1er commit en desarrollo-V2
+
+2o commit en desarrollo-V2
