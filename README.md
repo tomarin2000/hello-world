@@ -37,3 +37,5 @@ cambio despues de borrar origin/pruebas1 (en githud desde girkraken)
 4o commit en desarrollo-V2
 
 esta linea creada en la branch "pruebas-a-borrar"
+
+esta otra escrita en "desarrollo-V2" despues de borrar branch "pruebas-a-borrar"
